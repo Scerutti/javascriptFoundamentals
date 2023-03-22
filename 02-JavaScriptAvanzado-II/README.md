@@ -1,23 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shr5KEX8NFdrG14j9?prefill_clase=02-JavaScriptAvanzado-II">
-      <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-      <br>
-      Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-      <td>
-      <a href="https://quiz.soyhenry.com/evaluation/new/60662c1a656c8d23c2e60e66">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HSQuiz.svg/768px-HSQuiz.svg.png" width="100" height="100"/>
-        <br>
-        Hacé click acá completar el quizz teórico de esta lecture.
-      </a>
-  </td>
-  </tr>
-</table>
-
 # JavaScript
 
 #### Avanzado II
