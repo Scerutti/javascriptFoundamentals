@@ -1,23 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shr5KEX8NFdrG14j9?prefill_clase=03-EstructuraDeDatos-I">
-      <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-      <br>
-      Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-      <td>
-      <a href="https://quiz.soyhenry.com/evaluation/new/6066323c656c8d23c2e60e75">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HSQuiz.svg/768px-HSQuiz.svg.png" width="100" height="100"/>
-        <br>
-        Hacé click acá completar el quizz teórico de esta lecture.
-      </a>
-  </td>
-  </tr>
-</table>
-
 # Estructuras de Datos I
 
 ![asd](../_src/assets/03-EstructuraDeDatos-I/array.jpg)
@@ -325,7 +305,3 @@ console.log(i);        // muestra 1
 ```
 
 Como ven, cuando construimos el set pasándole un [iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#iterable) nos devuelve un `Set` en donde cada uno de los elementos que contiene es único!
-
-## Homework
-
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/FT-M1/blob/master/03-EstructuraDeDatos-I/homework/README.md)

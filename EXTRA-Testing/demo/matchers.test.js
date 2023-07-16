@@ -87,7 +87,7 @@ xdescribe('Extra matchers', () => {
     expect(array).toContain('Martu');
     expect(array).not.toContain('Diego');
 
-    expect('Soy Henry').toContain('Henry');
+    expect('Soy estudiante Full-Stack').toContain('Full-Stack');
   });
 
   // also used as .toThrowError

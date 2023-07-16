@@ -241,6 +241,3 @@ De esta forma, tenemos una nueva función donde el parámetro `a` es siempre `2`
 
 > Function Currying se refiere a crear una copia de una función pero con algunos argumentos preseteados. En JavaScript lo hacemos con `bind`.
 
-## Homework
-
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/FT-M1/blob/master/02-JavaScriptAvanzado-II/homework/README.md)
